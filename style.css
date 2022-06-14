@@ -1,0 +1,18 @@
+body {
+    background-image: url('images/Humorous-Uninspirational-Poster.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    padding: 5rem;
+}
+
+button {
+    padding: 10px 25px;
+    border-radius: 25px;
+    border: unset;
+    background-color: #121212;
+    color: aliceblue;
+}
